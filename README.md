@@ -6,4 +6,4 @@ See Rouder et al, 2009, Psychon Bull Rev for details.
 
 ## Dependencies:
 
-* [scipy.integrate.integrate](https://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html)
+* [scipy.integrate.quad](https://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html)

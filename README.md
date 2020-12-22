@@ -1,4 +1,4 @@
-# The Bayesian two-sample t-test
+# The Bayesian two-sample T-Test
 
 Very simple Python module to calculate JZS Bayes Factor for a two-sample t-test given t and sample sizes.
 
